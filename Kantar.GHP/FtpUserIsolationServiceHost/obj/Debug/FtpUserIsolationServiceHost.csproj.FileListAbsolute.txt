@@ -1,0 +1,14 @@
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.csprojResolveAssemblyReference.cache
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolationServiceHost.pdb
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolation.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolation.pdb
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.pdb
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolationServiceHost.exe
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolationServiceHost.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolationServiceHost.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolation.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolation.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.csprojResolveAssemblyReference.cache

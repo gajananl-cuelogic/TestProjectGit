@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Service="MicroServices.FtpUserIsolation.FtpUserIsolationService.FtpUserIsolationService"  
+                Factory="System.ServiceModel.Activation.WebServiceHostFactory"%>

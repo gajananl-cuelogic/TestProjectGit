@@ -1,0 +1,42 @@
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\ApplicationInsights.config
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolationServiceWcfIISHost.dll.config
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolationServiceWcfIISHost.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolationServiceWcfIISHost.pdb
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolation.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.DependencyCollector.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.Web.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.WindowsServer.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.ApplicationInsights.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolation.pdb
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.DependencyCollector.xml
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.Web.xml
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.WindowsServer.xml
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.ApplicationInsights.xml
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\obj\Debug\FtpUserIsolationServiceWcfIISHost.csprojResolveAssemblyReference.cache
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\obj\Debug\FtpUserIsolationServiceWcfIISHost.dll
+D:\TEST\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\obj\Debug\FtpUserIsolationServiceWcfIISHost.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\ApplicationInsights.config
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolationServiceWcfIISHost.dll.config
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolationServiceWcfIISHost.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolationServiceWcfIISHost.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolation.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.DependencyCollector.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.Web.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.WindowsServer.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.ApplicationInsights.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\FtpUserIsolation.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.DependencyCollector.xml
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.Web.xml
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.AI.WindowsServer.xml
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\bin\Microsoft.ApplicationInsights.xml
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\obj\Debug\FtpUserIsolationServiceWcfIISHost.csprojResolveAssemblyReference.cache
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\obj\Debug\FtpUserIsolationServiceWcfIISHost.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceWcfIISHost\obj\Debug\FtpUserIsolationServiceWcfIISHost.pdb
